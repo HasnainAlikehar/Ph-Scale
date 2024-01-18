@@ -2,7 +2,7 @@ body{
     background-color: rgb(211, 211, 211);
     font-family: Arial, Helvetica, sans-serif;
 }
-div > h1{ background-color: #ffffff;
+div > h1{ background-color: rgb(211, 211, 211);
           background-color:  hsla(0, 100%, 100%, 0.5);
           color: rgb(59, 185, 59);
           padding: inherit;
